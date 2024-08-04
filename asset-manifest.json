@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nottayo.github.io/greeting-app/static/css/main.26ac8dda.css",
-    "main.js": "/nottayo.github.io/greeting-app/static/js/main.a3251686.js",
-    "static/js/453.6005877e.chunk.js": "/nottayo.github.io/greeting-app/static/js/453.6005877e.chunk.js",
-    "index.html": "/nottayo.github.io/greeting-app/index.html",
-    "main.26ac8dda.css.map": "/nottayo.github.io/greeting-app/static/css/main.26ac8dda.css.map",
-    "main.a3251686.js.map": "/nottayo.github.io/greeting-app/static/js/main.a3251686.js.map",
-    "453.6005877e.chunk.js.map": "/nottayo.github.io/greeting-app/static/js/453.6005877e.chunk.js.map"
+    "main.css": "/nottayo.github.io/greetings-app/static/css/main.26ac8dda.css",
+    "main.js": "/nottayo.github.io/greetings-app/static/js/main.844b7c38.js",
+    "static/js/453.6005877e.chunk.js": "/nottayo.github.io/greetings-app/static/js/453.6005877e.chunk.js",
+    "index.html": "/nottayo.github.io/greetings-app/index.html",
+    "main.26ac8dda.css.map": "/nottayo.github.io/greetings-app/static/css/main.26ac8dda.css.map",
+    "main.844b7c38.js.map": "/nottayo.github.io/greetings-app/static/js/main.844b7c38.js.map",
+    "453.6005877e.chunk.js.map": "/nottayo.github.io/greetings-app/static/js/453.6005877e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26ac8dda.css",
-    "static/js/main.a3251686.js"
+    "static/js/main.844b7c38.js"
   ]
 }
